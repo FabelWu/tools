@@ -26,3 +26,24 @@
 
 # Runtime
 - [Flink 必知必会：Flink Runtime Architecture](https://segmentfault.com/a/1190000039750254)
+
+# 源码分析
+- [Flink Client 实现原理与源码解析（保姆级教学）](https://cloud.tencent.com/developer/article/1786426)
+
+# Session & HA
+
+- [Flink 源码阅读环境准备，并调试 Flink-Clients 模块](https://cloud.tencent.com/developer/article/1792718)
+- [Flink架构分析之HA](https://www.cnblogs.com/andyhe/p/10593797.html)
+- [Flink运行方式及对比](https://cloud.tencent.com/developer/article/2206914)
+- [flink源码之JM启动概览](https://blog.csdn.net/weixin_51981189/article/details/136901694)
+- [Flink Master 详解](https://www.joyk.com/dig/detail/1577239265243226)
+- [Flink Yarn Cluster & HA](https://cloud.tencent.com/developer/article/2225804)
+- [一文搞定 Flink Job 的运行过程](https://cloud.tencent.com/developer/article/1817603)
+- [Flink on Yarn - CDH5](https://cloud.tencent.com/developer/article/1658835)
+- [Flink 源码分析之 Client 解析流程分析](https://juejin.cn/post/7144959322521337870)
+- [Flink Client 实现原理与源码解析（保姆级教学](https://cloud.tencent.com/developer/article/1786426)
+- [Flink on Yarn两种模式启动参数及在Yarn上的恢复](https://cloud.tencent.com/developer/article/1586186)
+- [Flink on yarn 远程调试源码](https://juejin.cn/post/7105598905005375501?from=search-suggest)
+- [Flink 1.13 源码解析——TaskManager启动流程 之 与ResourceManager的注册交互](https://blog.csdn.net/EdwardWong_/article/details/126592485)
+- [Flink实战案例（五十一）: flink 作业提交（一）提交全流程](https://blog.51cto.com/u_9928699/2892767)
+- [阅读 Flink 源码前必知必会 - SPI 和 ClassLoader](https://cloud.tencent.com/developer/article/1786428)
