@@ -5,3 +5,6 @@
 # CEP
 - [Flink CEP 新特性进展与在实时风控场景的落地](https://developer.aliyun.com/article/1157197)
 - [钱大妈基于 Flink 的实时风控实践](https://www.51cto.com/article/711798.html)
+
+# 实时数仓
+- [基于 StarRocks 的风控实时特征探索和实践](https://forum.mirrorship.cn/t/topic/12185)
